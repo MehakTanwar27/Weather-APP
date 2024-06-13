@@ -13,13 +13,13 @@ body {
     
 
 }
-h1{
+.heading{
     background-color: #fff;
     text-align: center;
     font-size: 2rem;
 }
 .card {
-    /* width        : 90%; */
+    width        : 90%;
     max-width    : 700px;
     background   : linear-gradient(135deg, #00feba, #5b548a);
     color        : #fff;
