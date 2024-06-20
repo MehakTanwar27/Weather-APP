@@ -18,7 +18,7 @@ This is a simple weather forecast application built using HTML, CSS, and JavaScr
 
 ## Contact
 
-If you have any questions, feel free to reach out to me at [your-email@example.com](mailto:mehaktanwar27@gmail.com).
+If you have any questions, feel free to reach out to me at mailto:mehaktanwar27@gmail.com.
 
 ---
 
